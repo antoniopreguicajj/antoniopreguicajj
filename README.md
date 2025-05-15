@@ -2,8 +2,6 @@
 👩🏻‍💻 A young man passionate about technology and programming<br>👩🏻‍🎓 Studying machine learning at Valencia Polytechnic University, Spain<br>🎨 Making tech, jiujitsu and fitness lifestyle videos<br>💭 Currently learning about IA
 
 ![](https://github-readme-stats.vercel.app/api?username=antoniopreguicajj&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=antoniopreguicajj&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniopreguicajj&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/antoniopreguicajj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antoniomartins@neurifytech.com) 
