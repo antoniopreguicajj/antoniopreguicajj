@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I'm Antonio
 👩🏻‍💻 A young man passionate about technology and programming<br>👩🏻‍🎓 Studying machine learning at Valencia Polytechnic University, Spain<br>🎨 Making tech, jiujitsu and fitness lifestyle videos<br>💭 Currently learning about IA
 
 ![](https://github-readme-stats.vercel.app/api?username=antoniopreguicajj&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
